@@ -1,0 +1,4 @@
+services:
+  trending.videoservice:
+    class:  Drupal\trending\VideoService
+    arguments: []
