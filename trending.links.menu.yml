@@ -1,0 +1,6 @@
+trending.admin_settings:
+  title: 'Adding Tags '
+  description: 'Control to add youtube tags'
+  route_name: trending.admin_settings
+  parent: system.admin_config_content
+  weight: 10
