@@ -1,0 +1,5 @@
+administer trending:
+  title: 'Administer Trending tags'
+  description: 'Access the Traending tags page.'
+  restrict access: true
+
