@@ -1,0 +1,6 @@
+name: Trending Videos
+type: module
+core: '8.x'
+description: Trending Videos on Youtube through tags
+package: Youtube
+configure: trending.admin_settings
