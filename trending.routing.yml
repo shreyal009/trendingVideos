@@ -1,0 +1,7 @@
+trending.admin_settings:
+  path: '/admin/config/content/trending'
+  defaults:
+    _form: '\Drupal\trending\Form\TRENDINGSettingsForm'
+    _title: 'Add Trending Tags'
+  requirements:
+    _permission: 'administer trending'
